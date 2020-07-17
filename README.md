@@ -1,5 +1,5 @@
 # starfall
-a top-down framework of cloud-native application and service
+a top-down framework of cloud-native application
 
 
 ### License
