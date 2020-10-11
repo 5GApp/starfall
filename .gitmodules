@@ -1,0 +1,6 @@
+[submodule "dapr"]
+	path = dapr
+	url = https://github.com/5GApp/dapr
+[submodule "bcc"]
+	path = bcc
+	url = https://github.com/5GApp/bcc
