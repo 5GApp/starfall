@@ -4,3 +4,6 @@
 [submodule "bcc"]
 	path = bcc
 	url = https://github.com/5GApp/bcc
+[submodule "electron-httpp"]
+	path = electron-httpp
+	url = https://github.com/InstantWebP2P/electron-httpp
