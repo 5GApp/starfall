@@ -1,6 +1,9 @@
 # starfall
 top-down framework of cloud-native SaaS applications
 
+### PoC
+* Electron as frontend framework
+* Dapr as backend framework
 
 ### License
 
