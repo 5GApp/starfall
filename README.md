@@ -1,5 +1,5 @@
 # starfall
-top-down framework of cloud-native SaaS applications
+cloud-native SaaS application framework
 
 ### PoC
 * Electron as frontend framework
